@@ -27,6 +27,7 @@ phone: 555-5555
 
 # Build settings
 markdown: kramdown
+theme: minima
 
 # Layout settings
 home-link-in-menu: yes
